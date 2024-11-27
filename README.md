@@ -7,6 +7,7 @@
 
  <img src="https://komarev.com/ghpvc/?username=xetnopnawab&label=Profile%20views&color=0e75b6&style=flat" alt="xetnopnawab" />
 
+![GitHub followers](https://img.shields.io/github/followers/xetnopnawab?style=social)
 [![](https://visitcount.itsvg.in/api?id=xetnopnawab&icon=10&color=13)](https://visitcount.itsvg.in)
 
 </div>
