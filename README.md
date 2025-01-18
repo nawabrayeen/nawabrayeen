@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Nawab</h1>
-<h3 align="center">👀 Passion are Web Development and also latest technology with immense interest in adapting innovation.MERN stack developer | Asynchronous JavaScript ❤️</h3>
+<h3 align="center">👀 Passion are Software Engineering with DevOps and AI and also latest technology with immense interest in adapting innovation.MERN stack developer | Asynchronous JavaScript ❤️</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=65&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+%2C+I'm+Md+Nawab.;I'm+a+Full+Stack+Web+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%8A;Nice+to+Meet+You..!!)
 
