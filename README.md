@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Md Nawab</h1>
+<h1 align="center">Hi 👋, I'm Md Nawab Rayeen</h1>
 <h3 align="center">👀 Passion are Software Engineering with DevOps and AI and also latest technology with immense interest in adapting innovation.MERN Full Stack Developer | Asynchronous JavaScript ❤️</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Akaya+Telivigala&size=65&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+%2C+I'm+Md+Nawab.;I'm+a+Full+Stack+Web+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%8A;Nice+to+Meet+You..!!)
 
 <div align="center">
 
- <img src="https://komarev.com/ghpvc/?username=xetnopnawab&label=Profile%20views&color=0e75b6&style=flat" alt="xetnopnawab" />
+ <img src="https://komarev.com/ghpvc/?username=nawabrayeen&label=Profile%20views&color=0e75b6&style=flat" alt="nawabrayeen" />
 
-![GitHub followers](https://img.shields.io/github/followers/xetnopnawab?style=social)
-[![](https://visitcount.itsvg.in/api?id=xetnopnawab&icon=10&color=13)](https://visitcount.itsvg.in)
+![GitHub followers](https://img.shields.io/github/followers/nawabrayeen?style=social)
+[![](https://visitcount.itsvg.in/api?id=nawabrayeen&icon=10&color=13)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -21,25 +21,25 @@
 <div align="center">
 <h3 align="center">🌐 Socials:</h3>
  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xetnopnawab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xetnopnawab/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xetnopnawab)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nawab__rayeen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawabrayeen/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/nawabrayeen)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nawab_rayeen)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=xetnopnawab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nawabrayeen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on Projects [Eventify , Software-Engineering-with-DevOps](https://github.com/xetnopnawab/)
+- 🔭 I’m currently working on Projects [Eventify , Software-Engineering-with-DevOps](https://github.com/nawabrayeen/)
 
 - 🌱 I’m currently learning **DevOps, Remix, Prisma**
 
-- 👨‍💻 All of my projects are available at [https://xetnopnawab.github.io/nawab-dev/](https://xetnopnawab.github.io/nawab-dev/)
+- 👨‍💻 All of my projects are available at [https://nawabrayeen.github.io/nawab-dev/](https://nawabrayeen.github.io/nawab-dev/)
 
 - 📫 How to reach me **nawab.stack@gmail.com**
 
-- 📄 Know about my experiences [https://xetnopnawab.github.io/nawab-dev/](https://xetnopnawab.github.io/nawab-dev/)
+- 📄 Know about my experiences [https://nawabrayeen.github.io/nawab-dev/](https://nawabrayeen.github.io/nawab-dev/)
 
 # 💻 Tech Stack:
 
@@ -277,15 +277,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=xetnopnawab&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xetnopnawab&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xetnopnawab&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nawabrayeen&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nawabrayeen&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nawabrayeen&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=xetnopnawab&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nawabrayeen&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 
