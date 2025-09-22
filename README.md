@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on Projects [Eventify , Software-Engineering-with-DevOps](https://github.com/nawabrayeen/)
 
-- 🌱 I’m currently learning **DevOps, Remix, Prisma**
+- 🌱 I’m currently learning **Gen AI, DevOps, Cloud, Rust, Prisma**
 
 - 👨‍💻 All of my projects are available at [https://nawabrayeen.github.io/nawab-dev/](https://nawabrayeen.github.io/nawab-dev/)
 
